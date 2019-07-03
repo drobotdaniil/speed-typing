@@ -1,2 +1,2 @@
-# speed-typing
+# https://drobotdaniil.github.io/speed-typing/.
  
